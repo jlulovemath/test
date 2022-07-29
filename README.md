@@ -14,7 +14,7 @@ title: wangtuo_downloader.exe
 ## 下载方式
 
 1. GitHub直接下载
-2. 通过如下链接下载：http://jlu.wangtuo.co/wangtuo_downloader/wangtuo_downloader.exe
+2. 通过如下链接下载：http://jlu.wangtuo.co/wangtuo_downloader/wangtuo_downloader.html
 
 ## 版本
 
